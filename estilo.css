@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+#menufijo {
+    margin-left: 47%;
+    position: fixed;
+    z-index: 100;
+}
+#texto {
+    margin-top: 20%;
+    margin-right: 20%;
+    margin-bottom: 20%;
+    margin-left: 20%;
+}
